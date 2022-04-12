@@ -1,4 +1,4 @@
-# Functional Synthetic Biology and a Genetic Design by Constrains
+# Functional Synthetic Biology
 
 The software group of iGEM Engineering Committee is writing a document 
 about a Functional Synthetic Biology, a vision that will try to make the 
