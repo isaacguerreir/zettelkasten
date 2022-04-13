@@ -13,7 +13,7 @@ and see if it feels more intuitive and easy to use than Benchling and Snapgene.
 What are the software requirements?
 
 - Give a list of constrains compile a DNA sequence
-
+```
 {
   constrains: [
     {
@@ -56,7 +56,7 @@ What are the software requirements?
     }
   ]
 }
-
+```
 - Import sequence
 library.importPackage(GoldenGate)
 
