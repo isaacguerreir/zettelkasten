@@ -1,4 +1,4 @@
-# Why DNA Compiler exist
+# Why [DNA Compiler](https://github.com/isaacguerreir/dnacompiler) exist
 
 One upon a time at John von Neumman's laboratory, one of his students created a simple assembler that could transform a text file with some language synthax into binary code. Von Neumman discovered and became furious at him, for wasting precious machine time doing the assembly. Some years later, when John Backus and friends came up with this idea called FORTRAN, this so called high-level language where you could write out your formulas, as if you're writing mathematical notation, you could write loops, this was shown to assembly programmer, and once again they don't see any value in that, they don't get it.
 
